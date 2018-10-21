@@ -17,8 +17,10 @@ public:
 
 int main()//-----------------------------------MAIN---------------
 {
-	Monster monster1;
+	Monster monster1;//sourced from 'class Monster'
 	monster1.growl();
+	
+
 	system("PAUSE");
 	return 0;
 
